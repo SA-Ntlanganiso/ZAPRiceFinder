@@ -1,0 +1,254 @@
+[
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 21,884",
+        "_id": "411678996",
+        "Product Description": "Samsung Galaxy S24 Ultra 5G 256GB Dual Sim Smartphone",
+        "Product Image URL": "https://media.takealot.com/covers_images/10b350f4887d422f9edc7d4490200cae/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 28,999",
+        "_id": "-90566329",
+        "Product Description": "Samsung Galaxy S24 Ultra 5G 256GB Dual Sim - Titanium Grey + Buds FE + 45W Power Adaptor",
+        "Product Image URL": "https://media.takealot.com/covers_images/435716fe160c409cb511921966420897/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 18,999",
+        "_id": "-960232601",
+        "Product Description": "Samsung Galaxy S23 Ultra 256GB 5G Dual Sim - Green",
+        "Product Image URL": "https://media.takealot.com/covers_images/232e43f570f74755b15e215533236559/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 18,995",
+        "_id": "-327113670",
+        "Product Description": "Samsung Galaxy S23 Ultra 256GB 5G Dual Sim - Phantom Black",
+        "Product Image URL": "https://media.takealot.com/covers_images/2ecc0aa12d8b485ca519009a11b0672c/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 15,696",
+        "_id": "-1838788587",
+        "Product Description": "Samsung Galaxy S24 5G 256GB Dual Sim",
+        "Product Image URL": "https://media.takealot.com/covers_images/285490441fbf462c884fce867d584f74/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 11,999",
+        "_id": "-772537767",
+        "Product Description": "Samsung Galaxy S24 FE 5G 128GB Dual Sim - Graphite",
+        "Product Image URL": "https://media.takealot.com/covers_images/cbfacdb1e90d471f88d7bbb90c5056a4/s-fb.file"
+    },
+    {
+        "Brand Name": "N/A",
+        "Price": "R 98",
+        "_id": "1922155191",
+        "Product Description": "MagSafe Clear Case Protective Back Cover for Samsung Galaxy S24 Ultra",
+        "Product Image URL": "https://media.takealot.com/covers_images/f25a728239ee4afaae0f308a2998aabf/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 22,932",
+        "_id": "-244155585",
+        "Product Description": "Galaxy S24 Ultra 256GB Titanium Black",
+        "Product Image URL": "https://media.takealot.com/covers_images/0afe510d526f452090d05f820515d572/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 899",
+        "_id": "858341354",
+        "Product Description": "Samsung Original Galaxy S24 ULTRA Standing Grip Case - Taupe",
+        "Product Image URL": "https://media.takealot.com/covers_images/acf8bad31ee84f509f57ecb71aade3a1/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 999",
+        "_id": "-206238806",
+        "Product Description": "Samsung Original Galaxy S24 ULTRA Smart View Wallet Case",
+        "Product Image URL": "https://media.takealot.com/covers_images/c10d16afac4e43bf9da8f283d6db58c6/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 28,999",
+        "_id": "1415570471",
+        "Product Description": "Samsung Galaxy S24 Ultra 5G 256GB Dual Sim - Titanium Violet + Buds FE + 45W Power Adaptor",
+        "Product Image URL": "https://media.takealot.com/covers_images/8913e20735644f35abdc5b9a80624239/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 18,999",
+        "_id": "2115244556",
+        "Product Description": "Samsung Galaxy S24 Plus 5G 256GB Dual Sim Phone",
+        "Product Image URL": "https://media.takealot.com/covers_images/26eca0524af6485aa00a3d2b942808d3/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 11,499",
+        "_id": "-718614781",
+        "Product Description": "Samsung Galaxy S23 FE 5G 256GB Dual Sim - Mint",
+        "Product Image URL": "https://media.takealot.com/covers_images/d464cde7be7a45d98b7bb732a53e5aed/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 15,979",
+        "_id": "2014145767",
+        "Product Description": "Samsung Galaxy S22 Ultra 5G 256GB 12GB DUAL SIM-BLACK Certified-Preowned",
+        "Product Image URL": "https://media.takealot.com/covers_images/7cc77965c2b44e7097c794e0e14c86a7/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 14,999",
+        "_id": "-1726699001",
+        "Product Description": "Samsung Galaxy S24 FE 256GB Dual Sim (Fan Edition)",
+        "Product Image URL": "https://media.takealot.com/covers_images/5fe824bfb07c4899bc38fcff4f1f8aaa/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 19,900",
+        "_id": "1735228748",
+        "Product Description": "Samsung S23 Ultra Smart Phone",
+        "Product Image URL": "https://media.takealot.com/covers_images/3779fb8365d04e6c81a86228f4b986a5/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 15,999",
+        "_id": "853785439",
+        "Product Description": "Samsung Galaxy S24 FE 5G 256G Dual Sim - Graphite + Samsung Galaxy Buds3",
+        "Product Image URL": "https://media.takealot.com/covers_images/1eb3a7c91fbe4808b81eda14ffcd65f4/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 20,999",
+        "_id": "1767211594",
+        "Product Description": "Samsung Galaxy S22 Ultra 256GB Dual Sim - Phantom Black",
+        "Product Image URL": "https://media.takealot.com/covers_images/d1cbdc2f29944b94b56bf25a2a9acb8a/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 22,899",
+        "_id": "-969380385",
+        "Product Description": "Samsung Galaxy S24+ 5G 256GB Dual Sim - Marble Grey + Buds FE + 45W Power Adaptor",
+        "Product Image URL": "https://media.takealot.com/covers_images/5d4225d74c2347379079cf517fb9fd3b/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 28,990",
+        "_id": "-1341523284",
+        "Product Description": "Samsung Galaxy S24 Ultra 5G Dual Sim 256GB",
+        "Product Image URL": "https://media.takealot.com/covers_images/2649adf7d0c94f79bdf09132cc5c36e2/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 13,444",
+        "_id": "973432445",
+        "Product Description": "Samsung Galaxy S24 FE 5G 256G Dual Sim - Grey",
+        "Product Image URL": "https://media.takealot.com/covers_images/e6d2784695654c6684930a5dd867a2bb/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 22,999",
+        "_id": "250946124",
+        "Product Description": "Galaxy S24 Ultra 256GB Titanium Grey",
+        "Product Image URL": "https://media.takealot.com/covers_images/688b568c41ce4b429752fbdfee5e0cf9/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 19,499",
+        "_id": "-1973841281",
+        "Product Description": "Samsung Galaxy S24 5G 256GB Dual Sim - Amber Yellow + Buds FE + 45W Power Adaptor",
+        "Product Image URL": "https://media.takealot.com/covers_images/ec1458b8b0e044f7bd2ad448ca76d979/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 11,699",
+        "_id": "-2019233125",
+        "Product Description": "Samsung Galaxy S23 FE 5G 256GB Dual Sim - Graphite",
+        "Product Image URL": "https://media.takealot.com/covers_images/b00e66147348423eb54a9f99263a24ae/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 12,999",
+        "_id": "868554565",
+        "Product Description": "Samsung Galaxy S22 5G Dual Sim 256GB - Phantom Black",
+        "Product Image URL": "https://media.takealot.com/covers_images/43034d536ad64d01a2dec592958ed889/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 529",
+        "_id": "-1575079899",
+        "Product Description": "Samsung Galaxy S24 Ultra Silicone Case",
+        "Product Image URL": "https://media.takealot.com/covers_images/a378f76517114cb39bd371f6c1320e53/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 899",
+        "_id": "-905493597",
+        "Product Description": "Samsung Galaxy S24 Ultra Standing Grip Case",
+        "Product Image URL": "https://media.takealot.com/covers_images/e199344c292a461db3ab331f29e0bb85/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 939",
+        "_id": "361321427",
+        "Product Description": "Samsung Galaxy S24 Ultra Smart View Wallet Case",
+        "Product Image URL": "https://media.takealot.com/covers_images/755a5869a98b4e25a65563e1c16655fd/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 429",
+        "_id": "582163635",
+        "Product Description": "Samsung Galaxy S24 Ultra Silicone Case Cover - Lime",
+        "Product Image URL": "https://media.takealot.com/covers_images/eab07509d54c4929a20c9f3c3de13a43/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 699",
+        "_id": "-1400019568",
+        "Product Description": "Samsung Galaxy S24 Ultra Shield Case - Light Gray",
+        "Product Image URL": "https://media.takealot.com/covers_images/718a637cdfa746cc9a55529c0a29bc49/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 899",
+        "_id": "-2010844331",
+        "Product Description": "Samsung Original Galaxy S24 ULTRA Clear Gadget Case - Clear",
+        "Product Image URL": "https://media.takealot.com/covers_images/0cf85006df2840f1afbafd0baeb7557c/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 799",
+        "_id": "354054985",
+        "Product Description": "Samsung Original Galaxy S24 ULTRA SMAPP Suit Case - White",
+        "Product Image URL": "https://media.takealot.com/covers_images/c37944ee3b5b44268ee377b5cad9aa43/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 799",
+        "_id": "89512226",
+        "Product Description": "Samsung Galaxy S24 Ultra SMAPP Flipsuit Case - Yellow",
+        "Product Image URL": "https://media.takealot.com/covers_images/56970027edc04e6f9bc9446c1409aa41/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 779",
+        "_id": "131335253",
+        "Product Description": "Samsung Galaxy S24 FE Silicone Case - Grey",
+        "Product Image URL": "https://media.takealot.com/covers_images/1fffe360eb1e45df81f9512b4286f0bc/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 28,999",
+        "_id": "-1393600342",
+        "Product Description": "Samsung Galaxy S24 Ultra 5G 256GB Dual Sim - Titanium Black + Wall Adapter",
+        "Product Image URL": "https://media.takealot.com/covers_images/89c57dafa3b1429899a7751732514045/s-fb.file"
+    },
+    {
+        "Brand Name": "Samsung",
+        "Price": "R 349",
+        "_id": "-932055151",
+        "Product Description": "Samsung Galaxy S24 Ultra Smapp Disney Mickey Flipsuit Case Insert",
+        "Product Image URL": "https://media.takealot.com/covers_images/4f792cd324294c948308760ab464c7d5/s-fb.file"
+    }
+]

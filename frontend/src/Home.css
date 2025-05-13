@@ -1,0 +1,269 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+.website-bck{
+  width: auto;
+  height: auto;
+  background-color:white;
+}
+/* Navbar */
+.home-navbar {
+  height: 82px;
+  background-color: rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  padding: 0 1rem;
+}
+
+.navbar-logo {
+  height: 45px;
+  width: 45px;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: border 0.3s ease;
+}
+
+/* Website Name */
+.website-name {
+  margin-left: 40px;
+  font-size: 2em;
+  color: #848383;
+  font-weight: bold;
+  list-style: none;
+}
+
+/* Navigation Links */
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin-left: auto;
+}
+
+.nav-links li {
+  margin-right: 1.2rem;
+  display: inline-block;
+  padding: 5px;
+  text-align: center;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-weight: 500;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: rgb(76, 0, 255);
+  border-bottom: 3px solid rgb(76, 0, 255);
+}
+
+li:nth-child(5) {
+  border: 1px solid black;
+}
+
+li:nth-child(6) {
+  background-color: rgb(2, 11, 168);
+  padding-right: 8px;
+  border: 1px solid rgb(43, 8, 171)
+}
+
+li:nth-child(6):hover {
+  background: black;
+  color: rgb(2, 11, 168);
+  border: 1px solid black;
+}
+
+/* Search Bar */
+.home-navbar span {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+.home-navbar span input {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  font-size: 1rem;
+  outline: none;
+  transition: border 0.3s ease;
+  width: 300px;
+}
+
+.home-navbar span input:focus {
+  border: 1px solid rgb(20, 0, 67);
+}
+
+.home-navbar span button {
+  padding: 0.5rem 1rem;
+  border: none;
+  background-color: rgb(2, 11, 168);
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.home-navbar span  {
+  background-color:rgb(22, 11, 168);
+  margin-left: 60px;
+}
+.search-btn:hover{
+  background-color:rgb(190, 167, 255);
+}
+/* Error Message */
+.error-message {
+  color: red;
+  font-size: 25px;
+  margin-top: 20px;
+  background-color: white;
+  text-align: center;
+}
+
+
+/* Brand Icons Section */
+.brand-icons {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.brand-icons h3 {
+  font-size: 1.5rem;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 20px;
+  justify-items: center;
+}
+
+.brand-circle {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0px 4px 6px rgb(19, 19, 19);
+  transition: transform 0.3s ease;
+}
+
+.brand-circle:hover {
+  transform: scale(1.1);
+}
+
+.brand-circle img {
+  width: 90%;
+  height: auto;
+  object-fit:cover;
+  border-radius: 100%;
+}
+/* Description Section */
+/* Website Description Section */
+.website-description {
+  position: relative;
+  text-align: center;
+  padding: 50px 20px;
+  color: white; /* Ensures text visibility */
+  height: 300px;
+  
+}
+
+/* Background Video Styling */
+.background-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit:cover;
+  opacity: 0.2;
+  z-index: -1;
+}
+
+/* Ensuring Text Content Stays Above the Video */
+.website-description h2{
+  position: relative;
+  z-index: 1;
+  color: black;
+}
+.website-description p {
+  font-size: 1.5rem;
+  color: black;
+  text-align: cente;
+}
+/* Title Styling */
+.website-description h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  background: linear-gradient(90deg, rgb(166, 166, 166), rgb(18, 18, 253));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Description Text */
+.description-text {
+  font-size: 1.8rem;
+  line-height: 1.5;
+  font-weight: 500;
+  color: white;
+}
+
+/* Shop By Brand Text */
+.description-text strong {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+.byBrand {
+  color: black;
+  font-size: 30px;
+}
+.footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-around;
+}
+.footer-section {
+  margin: 10px;
+}
+.footer-section ul {
+  list-style: none;
+  padding: 0;
+}
+.footer-section ul li {
+  margin: 5px 0;
+}
+.footer-section ul li a {
+  color: white;
+  text-decoration: none;
+}
+.footer-section ul li a:hover {
+  text-decoration: underline;
+}
+.social-icons a {
+  color: white;
+  margin: 0 10px;
+  font-size: 20px;
+}
+.footer-bottom {
+  margin-top: 10px;
+}
+.fa-logo{
+  width: 25px;
+  height:25px;
+
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "brandName": "Asus",
+        "StoreName": "bash",
+        "price": "R18,999.00 ",
+        "ProductImageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/178581120-300-400/9ac96959-a968-4143-ab25-a5b0213880c9.png?v=638756393618130000",
+        "_id": "1081df1a0cfafc557cac3dc5",
+        "creationDate": "Thu May 08 00:00:39 SAST 2025",
+        "productDescription": "Asus AMD Ryzen 5 7530u Vivobook Flip 16/512 SSD Laptop"
+    },
+    {
+        "brandName": "WINX",
+        "StoreName": "bash",
+        "price": "R229.00 ",
+        "ProductImageUrl": "https://thefoschini.vtexassets.com/arquivos/ids/179053197-300-400/60143821.jpg?v=638760012371100000",
+        "_id": "9e2d0eadc3df02783cef294a",
+        "creationDate": "Thu May 08 00:00:40 SAST 2025",
+        "productDescription": "WINX LINK Simple Type C to Asus Charging Cable"
+    }
+]
